@@ -17,10 +17,10 @@ Para esse desafio temos o seguinte teste:
 ## 🚀 Instalação e execução
 
 1. Faça um clone desse repositório;</br>
-   git clone https://github.com/matheusguermandi/gostack-desafio04.git
+   git clone https://github.com/matheusguermandi/conceitos-react-native.git
    
-2. Com o terminal aberto, verifique se está na pasta `gostack-desafio04`;</br>
-   Caso não esteja execute o comando `cd gostack-desafio04`
+2. Com o terminal aberto, verifique se está na pasta `conceitos-react-native`;</br>
+   Caso não esteja execute o comando `cd conceitos-react-native`
    
 3. Execute `yarn` para realizar a instalação das dependencias;
 
